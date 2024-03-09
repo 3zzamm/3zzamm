@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @3zzamm
+- 👋 Hi, I’m  Azzam
 - 👀 I’m interested in Data scince and Machine Intelligance
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning knowlgable progects
-- 📫 How to reach me : azoom.muhamed@gmaile.com
+- 📫 How to reach me : azoom.muhamed@gmail.com
 
 
 <!---
